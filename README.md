@@ -26,7 +26,7 @@ npm install react react-dom
 ```
 ### Install Webpack and Webpack CLI:
 ```bash
-npm install webpack webpack-cli webpack-dev-server --save-dev
+npm install webpack webpack-cli html-webpack-plugin webpack-dev-server --save-dev
 ```
 
 ### Install Babel and related plugins:
